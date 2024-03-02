@@ -1,0 +1,28 @@
+# GreenMart - Chợ nông sản sạch hàng đầu Việt Nam
+
+### Actor
+- Chủ cửa hàng
+- System admin
+- Khách hàng
+- Đơn vị thanh toán
+
+### Use case
+- Khách hàng
+  + Đăng ký
+  + Đăng nhập
+  + Thêm bớt đồ ở giỏ hàng
+  + Xem chi tiết sản phẩm
+  + Thanh toán đơn hàng
+  + Tra cứu đơn hàng
+ 
+- System admin
+  + Xoá tài khoản người dùng
+
+- Chủ cửa hàng
+  + Thêm bớt mặt hàng
+  + Xem doanh số cửa hàng
+  + Quản lý danh sách đơn hàng
+
+- Đơn vị thanh toán
+  + Nhận yêu cầu thanh toán
+  + Xác nhận trạng thái thanh toán
