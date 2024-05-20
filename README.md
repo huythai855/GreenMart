@@ -34,3 +34,5 @@ Nhóm dự án chúng tôi gồm các thành viên đến từ nhóm 3, lớp Ph
 - 21020031 - Ngô Văn Tuân
 - 21020032 - Đỗ Minh Tuấn
 - 21020394 - Kiều Minh Tuấn
+
+Để hoàn thành được dự án, chúng tôi vô cùng trân trọng và biết ơn sự hỗ trợ của PGS.TS. Đặng Đức Hạnh và ThS. Trần Mạnh Cường - khoa Công Nghệ Thông Tin, trường Đại học Công nghệ, Đại học Quốc gia Hà Nội, những người đã giúp đỡ chúng tôi rất nhiều trong việc định hình bài toán, giảng dạy các kiến thức về môn Phân tích thiết kế hướng đối tượng và review các phiên bản phân tích của hệ thống.
