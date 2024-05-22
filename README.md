@@ -12,20 +12,20 @@ GreenMart là hệ thống thương mại điện tử tiên phong trong lĩnh v
 ### Phân tích và thiết kế hệ thống
 
 Chúng tôi đã phân tích và thiết kế hệ thống theo phương pháp phân tích thiết kế hướng đối tượng (Object-oriented Analysis & Design). Phiên bản phân tích mới nhất của chúng tôi gồm:
-  - [01. Problem Statement](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg1/01.%20Problem%20Statement.docx)
-  - [02. Domain model](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg1/02.%20Domain%20mode.docx)
-  - [03. Use Case Model](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg1/03.%20Use%20Case%20Model.docx)
-  - [04. Supplementary Specification](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg1/04.%20Supplementary%20Specification.docx)
-  - [05. Glossary](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg1/05.%20Glossary.docx)
-  - [06. Software Architecture](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg2/06.%20Software%20Architecture.docx)
-  - [07. Identity Design Elements](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/07.%20Identity%20Design%20Elements.docx)
-  - [09. Distributed Architecture Design](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/09.%20Distributed%20Architecture%20Design.docx)
-  - [10. Use Case Design](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/10.%20Use%20Case%20Design.docx)
-  - [11. Subsystem Design](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/11.%20Subsystem%20Design.docx)
-  - [Use Case Analysis (asg02)](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg2/Use%20Case%20Analysis.docx)
-  - [Class Design (asg03)](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/Class%20Design.docx)
-  - [Database Design (asg03)](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/Database%20Design.docx)
-  - [Design Mechanism (asg03)](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/Design%20Mechanism.docx)
+  - [01. Problem Statement](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg1/01.%20Problem%20Statement.pdf)
+  - [02. Domain model](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg1/02.%20Domain%20mode.pdf)
+  - [03. Use Case Model](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg1/03.%20Use%20Case%20Model.pdf)
+  - [04. Supplementary Specification](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg1/04.%20Supplementary%20Specification.pdf)
+  - [05. Glossary](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg1/05.%20Glossary.pdf)
+  - [06. Software Architecture](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg2/06.%20Software%20Architecture.pdf)
+  - [07. Identity Design Elements](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/07.%20Identity%20Design%20Elements.docx.pdf)
+  - [09. Distributed Architecture Design](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/09.%20Distributed%20Architecture%20Design.pdf)
+  - [10. Use Case Design](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/10.%20Use%20Case%20Design.pdf)
+  - [11. Subsystem Design](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/11.%20Subsystem%20Design.pdf)
+  - [Use Case Analysis (asg02)](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg2/Use%20Case%20Analysis.pdf)
+  - [Class Design (asg03)](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/Class%20Design.docx.pdf)
+  - [Database Design (asg03)](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/Database%20Design.pdf)
+  - [Design Mechanism (asg03)](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/Design%20Mechanism.pdf)
 
 ### Thành viên nhóm dự án
 Nhóm dự án chúng tôi gồm các thành viên đến từ nhóm 3, lớp Phân tích và thiết kế hướng đối tượng (INT3110 4), trường Đại học Công nghệ, Đại học Quốc gia Hà Nội.
