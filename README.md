@@ -26,6 +26,7 @@ Chúng tôi đã phân tích và thiết kế hệ thống theo phương pháp p
   - [Class Design (asg03)](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/Class%20Design.docx.pdf)
   - [Database Design (asg03)](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/Database%20Design.pdf)
   - [Design Mechanism (asg03)](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/Design%20Mechanism.pdf)
+  - [Demo Document (asg03)](https://github.com/huythai855/GreenMart/blob/master/docs/v1.5%20-%20asg01%2C%20asg02%2C%20asg03%20(final%20update)/asg3/Demo%20document.pdf)
 
 ### Thành viên nhóm dự án
 Nhóm dự án chúng tôi gồm các thành viên đến từ nhóm 3, lớp Phân tích và thiết kế hướng đối tượng (INT3110 4), trường Đại học Công nghệ, Đại học Quốc gia Hà Nội.
